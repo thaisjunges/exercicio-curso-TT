@@ -1,0 +1,251 @@
+body {
+    background: #3B3D5D;
+    font-family: Poppins, sans-serif;
+    color: #fff;
+
+}
+
+header {
+    background: #3B3D5D;
+    height: 110px;
+}
+
+
+.container {
+    margin: auto;
+    width: 1170px;
+    padding: 36px 0 25px 0;
+}
+
+.container img {
+    margin-bottom: 5px;
+    float: left;
+}
+
+
+.menu {
+    float: right;
+}
+  
+.menu a {
+    color: #fff;
+    padding: 12px 20px;
+    font-size: 18px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+h1,h5,h3{
+    color:#001F3A;
+    text-align: center;
+    text-decoration: none;
+}
+
+h3{
+    font-size: 30px;
+}
+
+h5 {
+    color: rgb(40, 23, 100);
+    margin: 10px;
+    padding: 10px;
+}
+
+h2 {
+
+    background: #00396B;
+    color: #fff;
+    padding: 5px 41px;
+    margin: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 24px;
+
+}
+
+
+.menu a:hover{
+    color: #FF4A57;
+    background: #fff;
+}
+
+img{
+    float: right;
+}
+
+p img{
+    float: left;
+}
+
+main {
+    /*border: 1px solid #FFFF00;*/
+    margin: 78px;
+    height: 558px;
+    width: 1170px;
+    background: #3B3D5D;
+    display: flex;
+    
+}
+
+.esquerdo{
+    /*border: 2px solid red;*/
+    width: 400px;
+    height: 539px;
+    float: right;
+    background: #ac930a;
+    border-radius: 10px;
+}
+
+.meio {
+    /*border: 2px solid #fff;*/
+    width: 400px;
+    height: 550px;
+    float:right;
+   margin-left: 50px;
+    margin-right: 50px;
+    background: #ac930a;
+    border-radius: 10px;
+}
+
+.direita{
+    /*border: 2px solid orange;*/
+    width: 400px;
+    height: 539px;
+    float: left;
+    background: #ac930a;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background: #000;
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    color: #000;
+    text-align: center;
+    font-size: 50px;
+}*/
+
+
+
+/*<header>
+    <!-- este elemento segura o logotipo e o menu em um tamanho fixo na tela -->
+    <div class="container">
+
+      <nav class="menu">
+        <a href="index.htm">Inicio</a>
+        <a href="planos.html">Planos</a>
+        <a href="cursos.htm">Cursos</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- CONTEUDO DO SITE -->
+<section>
+<!-- aqui vai o conteudo da esquerda -->
+<aside>
+    <p>Plano Anual</p>
+    <p>12xR$179,99</p>
+    <p>à vista 2,100.00</p>
+
+    <nav> 
+        <a href="matriculas.html">MATRICULA-SE</a>
+     </nav>
+
+</aside>
+
+<!-- aqui vai o conteudo da direita -->
+<aside>
+
+</aside>
+
+</section>*/
+
+
+
+
+
+/*<main>
+        <div class="exemplo6">
+            <div class="exemplo6-box1">
+             <p>A</p>
+            </div>
+        <div class="exemplo6-box2">
+            <p>B</p>
+        </div>
+        </div>
+        </main>
+
+        <div class="exemplo7">
+            <div class="exemplo7-box3">
+            <p>C</p>
+        </div>
+        <div class="exemplo7-box4">
+            <p>D</p>
+        </div>
+        </div>
+    </main>*/
+
+
+
+    /*<aside>
+        <p>Plano Anual</p>
+        <p>12xR$179,99</p>
+        <p>à vista 2,100.00</p>
+
+        <nav> 
+            <a href="matriculas.html">MATRICULA-SE</a>
+         </nav>
+
+    </aside>
+
+    <!-- aqui vai o conteudo da direita -->
+    <aside>
+    
+    </aside>*/
